@@ -1,5 +1,5 @@
 /*
-ECEN2830 motor position control example (left wheel only)
+ECEN2270 motor position control example (left wheel only)
 */
 
 // define pins
